@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "683121689126",
+    "firebase_url": "https://task-2346d.firebaseio.com",
+    "project_id": "task-2346d",
+    "storage_bucket": "task-2346d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683121689126:android:9d950ca769f36a7b099ce7",
+        "android_client_info": {
+          "package_name": "com.app.studynest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683121689126-0hc0jv0o8kpd10fisqsu990t88qv7c8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPNNr0FpGM3QUO4stn3kZZrKRE99fwqqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683121689126-0hc0jv0o8kpd10fisqsu990t88qv7c8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
